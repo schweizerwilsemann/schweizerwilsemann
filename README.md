@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schweizerwilsemann
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning python & C++
+- 👀 I’m interested in null
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on (none)
 - 📫 How to reach me (none)
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-
+<img src="./header.svg" alt="Anime Header" width="100%"/>
 
 <!---------------------------------------------------------------------------------------------------------------------------------->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=Welcome+to+my+Digital+Playground;Backend+Wizard+DevOps+Ninja+AI+Whisperer;Milktea+Powered+Anime+Inspired+Dream+Builder" alt="Typing SVG" />

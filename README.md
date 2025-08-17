@@ -252,7 +252,6 @@ Next-gen DevOps
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=💫+Thanks+for+visiting!+💫;⭐+Star+some+repos+if+you+like+them!+⭐;🌸+Let's+build+something+amazing+together!+🌸" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Star+some+repos+if+you+like+them!;Let's+build+something+amazing+together!" alt="Footer"/>
 </div>
-
 </div>

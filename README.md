@@ -48,8 +48,8 @@ currently_learning:
   - "AI/RAG magic & prompt wizardry"
 
 interests: 
-  - Backend Architecture 🏗️
-  - Cloud Native Solutions ☁️
+  - Backend and Frontend 🏗️
+  - Currently learning Linux ☁️
   - Developer Experience 💫
   - Anime & Aesthetic Code 🌸
 
@@ -70,26 +70,53 @@ fun_fact: "I debug with printf and rubber ducks"
 
 <div align="center">
 
-## 🛠️ ✨ Tech Arsenal ✨ 🛠️
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,redis,go,nodejs,typescript,python,nginx,grafana,prometheus&perline=6" />
-
+🛠️ ✨ Tech Arsenal ✨ 🛠️
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql,react,nextjs,nodejs,typescript,python,nginx,jenkins,java,tailwind,dotnet,mongodb,bash,arch&perline=6" />
 <br/><br/>
-
-<!-- Tech stack với hiệu ứng đẹp -->
+🖥️ Operating Systems & Tools
 <img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000&labelColor=000"/>
+<img src="https://img.shields.io/badge/🏹_Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/💻_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff&labelColor=000"/>
+🐳 DevOps & Infrastructure
 <img src="https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/🔧_Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/🌐_NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff&labelColor=000"/>
+🗄️ Databases
 <img src="https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=000"/>
-
-<img src="https://img.shields.io/badge/🗄️_MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/🐬_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/🍃_MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=000"/>
+💻 Programming Languages
 <img src="https://img.shields.io/badge/💚_Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&labelColor=000"/>
-
+<img src="https://img.shields.io/badge/🔷_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/🟦_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff&labelColor=000"/>
+⚛️ Frontend & Frameworks
+<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=000"/>
+<img src="https://img.shields.io/badge/🚀_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/🎨_Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=000"/>
 </div>
 
----
+<div align="center">
+📊 ✨ GitHub Magic Stats ✨ 📊
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=schweizerwilsemann&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true"/>
+<br/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=schweizerwilsemann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schweizerwilsemann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=schweizerwilsemann&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FFFFFF" alt="GitHub Streak"/>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=schweizerwilsemann&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 <div align="center">
-
 ## 📊 ✨ GitHub Magic Stats ✨ 📊
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=schweizerwilsemann&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true"/>
@@ -128,14 +155,14 @@ fun_fact: "I debug with printf and rubber ducks"
 ### 💭 Philosophy of Code
 ```javascript
 const life = {
-  coffee: '☕ Essential fuel',
+  milktea: '🧋 Essential fuel',
   anime: '🌸 Creative inspiration', 
   code: '💻 Digital poetry',
   dreams: '✨ Infinite possibilities'
 };
 
 function createMagic() {
-  return life.coffee + life.anime + life.code + life.dreams;
+  return life.milktea + life.anime + life.code + life.dreams;
 }
 ```
 
@@ -163,8 +190,8 @@ function createMagic() {
 <td align="center" width="33%">
 
 ### 🚀 **Building**
-Scalable microservices  
-with Go & Kubernetes
+Learning to scalable 
+Database  
 
 </td>
 <td align="center" width="33%">
@@ -192,14 +219,11 @@ Next-gen DevOps
 
 ## 📬 ✨ Let's Connect & Create Magic ✨ 📬
 
-<a href="mailto:you@example.com">
+<a href="mailto:khoa.qianyinga@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
 </a>
-<a href="https://t.me/your-handle">
+<a href="https://t.me/schweizerwilsemann">
   <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://discord.com/users/your-id">
-  <img src="https://img.shields.io/badge/🎮_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000"/>
 </a>
 
 <br/><br/>

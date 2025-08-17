@@ -215,7 +215,7 @@
   
   <!-- Main text with anime-style glow -->
   <text x="400" y="110" text-anchor="middle" font-family="monospace, 'Courier New'" font-size="42" font-weight="bold" fill="#ffffff" filter="url(#textGlow)">
-    NGUYEN DUC KHOA －　まさとし
+    NGUYEN DUC KHOA  －　まさとし
     <animate attributeName="fill" values="#ffffff;#ff69b4;#00ffff;#ffd700;#ffffff" dur="5s" repeatCount="indefinite"/>
   </text>
   

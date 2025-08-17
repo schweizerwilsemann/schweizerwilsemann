@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:you@example.com">
+  <a href="mailto:khoa.qianyingya@gmail.com">
     <img src="https://img.shields.io/badge/📧_Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
   </a>
-  <a href="https://www.linkedin.com/in/your-handle">
+  <a href="https://www.linkedin.com/in/khoa-nguyen-016280323/">
     <img src="https://img.shields.io/badge/💼_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
   </a>
-  <a href="https://x.com/your-handle">
-    <img src="https://img.shields.io/badge/🐦_Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000" />
+  <a href="https://t.me/schweizerwilsemann">
+    <img src="https://img.shields.io/badge/🐦_Follow-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000" />
   </a>
 </p>
 
@@ -80,32 +80,52 @@ fun_fact: "I debug with printf and rubber ducks"
 
 <br/><br/>
 
-### 🖥️ **Operating Systems & Tools**
-<img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000&labelColor=000"/>
-<img src="https://img.shields.io/badge/🏹_Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/💻_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff&labelColor=000"/>
+<table>
+<tr>
+<td align="center" width="20%">
 
-### 🐳 **DevOps & Infrastructure**
-<img src="https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🔧_Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🌐_NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff&labelColor=000"/>
+### 🖥️ **OS & Tools**
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
+<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff"/>
+
+</td>
+<td align="center" width="20%">
+
+### 🐳 **DevOps**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
+
+</td>
+<td align="center" width="20%">
 
 ### 🗄️ **Databases**
-<img src="https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🐬_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🍃_MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
 
-### 💻 **Programming Languages**
-<img src="https://img.shields.io/badge/💚_Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🔷_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🟦_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff&labelColor=000"/>
+</td>
+<td align="center" width="20%">
 
-### ⚛️ **Frontend & Frameworks**
-<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=000"/>
-<img src="https://img.shields.io/badge/🚀_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🎨_Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=000"/>
+### 💻 **Languages**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff"/>
+
+</td>
+<td align="center" width="20%">
+
+### ⚛️ **Frontend**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -215,10 +235,10 @@ Next-gen DevOps
 
 ## 📬 ✨ Let's Connect & Create Magic ✨ 📬
 
-<a href="mailto:you@example.com">
+<a href="mailto:khoa.qianyingya@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
 </a>
-<a href="https://t.me/your-handle">
+<a href="https://t.me/schweizerwilsemann">
   <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
 </a>
 <a href="https://discord.com/users/your-id">

@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nguyen%20Duc%20Khoa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=💫+Welcome+to+my+Digital+Playground+💫;🚀+Backend+Wizard+%7C+DevOps+Ninja+%7C+AI+Whisperer+🔮;☕+Coffee+Powered+%7C+🌸+Anime+Inspired+%7C+✨+Dream+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%92%AB+Welcome+to+my+Digital+Playground+%F0%9F%92%AB;%F0%9F%9A%80+Backend+Wizard+%E2%9C%A8+DevOps+Ninja+%E2%9C%A8+AI+Whisperer+%F0%9F%94%AE;%E2%98%95+Coffee+Powered+%E2%9C%A8+%F0%9F%8C%B8+Anime+Inspired+%E2%9C%A8+Dream+Builder" alt="Typing SVG" />
 
 <br/>
 

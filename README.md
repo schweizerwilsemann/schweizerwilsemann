@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=schweizerwilsemann&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nguyen%20Duc%20Khoa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=💫+Welcome+to+my+Digital+Playground+💫;🚀+Backend+Wizard+%7C+DevOps+Ninja+%7C+AI+Whisperer+🔮;☕+Coffee+Powered+%7C+🌸+Anime+Inspired+%7C+✨+Dream+Builder" alt="Typing SVG" />
 

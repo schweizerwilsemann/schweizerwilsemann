@@ -1,232 +1,139 @@
-<!-- Profile README for schweizerwilsemann -->
+<!-- schweizerwilsemann/schweizerwilsemann -->
 
 <div align="center">
+<img src="./header.svg" width="100%"/>
+</div>
 
-<img src="./my-header.svg" alt="Header" width="100%"/>
-
-<!---------------------------------------------------------------------------------------------------------------------------------->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=Welcome+to+my+Digital+Playground;Backend+Wizard+DevOps+Ninja+AI+Whisperer;Milktea+Powered+Anime+Inspired+Dream+Builder" alt="Typing SVG" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  $ whoami                                                        ║
+║  > nguyen-duc-khoa  //  backend dev · devops · ai tinkerer      ║
+║  > Ho Chi Minh City, Vietnam                                     ║
+║  > currently: drinking milktea & shipping code                   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<!-- Floating badges with glow effect -->
-<p align="center">
-  <a href="https://github.com/schweizerwilsemann">
-    <img src="https://img.shields.io/badge/🌟_Profile_Views-FF1493?style=for-the-badge&logoColor=white&labelColor=000&color=FF69B4"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=schweizerwilsemann&style=for-the-badge&color=ff69b4&label=VISITORS" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="mailto:khoa.qianyingya@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
-  </a>
-  <a href="https://www.linkedin.com/in/khoa-nguyen-016280323/">
-    <img src="https://img.shields.io/badge/💼_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌈 ✨ About This Digital Soul ✨ 🌈
-
-</div>
-
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="55%">
+
+### `./about_me.yml`
 
 ```yaml
-name: Nguyen Duc Khoa
-located_in: somewhere between reality & code
-currently_learning: 
-  - "Rust & the art of clean APIs"
-  - "AI/RAG magic & prompt wizardry"
+alias:     schweizerwilsemann
+role:      Backend Engineer
+status:    building · learning · caffeinated
 
-interests: 
-  - Backend and Frontend 🏗️
-  - Currently learning Linux ☁️
-  - Developer Experience 💫
-  - Anime & Aesthetic Code 🌸
+stack:
+  infra:   [Docker, NGINX, Jenkins, Linux]
+  langs:   [TypeScript, Python, Java, .NET]
+  db:      [PostgreSQL, MySQL, MongoDB]
+  web:     [Next.js, React, Tailwind CSS]
 
-fun_fact: "I debug with printf and rubber ducks"
+learning:
+  - Rust
+  - AI / RAG pipelines
+  - Clean system design
+
+debug_method: printf + rubber duck
+fuel:          🧋 milktea, infinite supply
 ```
 
 </td>
-<td width="50%">
+<td valign="top" width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+### `./now.log`
 
-</td>
-</tr>
-</table>
-</div>
+```
+[BUILDING]  scalable database systems
+[STUDYING]  AI-powered dev tools
+[READING]   Designing Data-Intensive Apps
+[WATCHING]  too much anime, no regrets
+[LISTENING] lo-fi · city pop · synthwave
 
----
-
-<div align="center">
-
-## 🛠️ ✨ Tech Arsenal ✨ 🛠️
-
-<img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql,react,nextjs,nodejs,typescript,python,nginx,jenkins,java,tailwind,dotnet,mongodb,bash,arch&perline=6" />
-
-<br/><br/>
-
-### 🖥️ **Operating Systems & Tools**
-<img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000&labelColor=000"/>
-<img src="https://img.shields.io/badge/🏹_Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/💻_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff&labelColor=000"/>
-
-### 🐳 **DevOps & Infrastructure**
-<img src="https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🔧_Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🌐_NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff&labelColor=000"/>
-
-### 🗄️ **Databases**
-<img src="https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🐬_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🍃_MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=000"/>
-
-### 💻 **Programming Languages**
-<img src="https://img.shields.io/badge/💚_Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🔷_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🟦_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff&labelColor=000"/>
-
-### ⚛️ **Frontend & Frameworks**
-<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=000"/>
-<img src="https://img.shields.io/badge/🚀_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff&labelColor=000"/>
-<img src="https://img.shields.io/badge/🎨_Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 ✨ GitHub Magic Stats ✨ 📊
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=schweizerwilsemann&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true"/>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=schweizerwilsemann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schweizerwilsemann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=schweizerwilsemann&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FFFFFF" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=schweizerwilsemann&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌸 ✨ Daily Inspiration ✨ 🌸
-
-<table>
-<tr>
-<td width="60%">
-
-### 💭 Philosophy of Code
-```javascript
-const life = {
-  milktea: '🧋 Essential fuel',
-  anime: '🌸 Creative inspiration', 
-  code: '💻 Digital poetry',
-  dreams: '✨ Infinite possibilities'
-};
-
-function createMagic() {
-  return life.milktea + life.anime + life.code + life.dreams;
-}
+──────────────────────────────────
+ uptime:  24/7 (minus sleep maybe)
+ mood:    [██████████] focused
+ coffee:  [████░░░░░░] need refill
+──────────────────────────────────
 ```
 
 </td>
-<td width="40%">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="anime coding"/>
-
-</td>
 </tr>
 </table>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=FF69B4" alt="Random Dev Quote"/>
-
-</div>
+<br/>
 
 ---
 
+### `$ ls -la ./tech_stack/`
+
+<br/>
+
 <div align="center">
 
-## 🎯 ✨ Current Adventures ✨ 🎯
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🚀 **Building**
-Learning to scalable 
-Database  
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 **Learning**
-AI-powered development  
-tools & automation
-
-</td>
-<td align="center" width="33%">
-
-### 🌟 **Exploring**
-Next-gen DevOps  
-& cloud architectures
-
-</td>
-</tr>
-</table>
+| Layer | Tools |
+|:---|:---|
+| **OS / Infra** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 
 </div>
 
+<br/>
+
 ---
+
+### `$ cat ./stats.md`
+
+<br/>
 
 <div align="center">
 
-## 📬 ✨ Let's Connect & Create Magic ✨ 📬
-
-<a href="mailto:khoa.qianyingya@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://t.me/schweizerwilsemann">
-  <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=schweizerwilsemann&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=888888&text_color=aaaaaa&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schweizerwilsemann&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=schweizerwilsemann&theme=dark&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" />
+
+</div>
+
+<br/>
 
 ---
 
+### `$ ping ./contact`
+
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Star+some+repos+if+you+like+them!;Let's+build+something+amazing+together!" alt="Footer"/>
-</div>
+
+```
+┌─────────────────────────────────────────────────────┐
+│  open to:  collaborations · interesting problems    │
+│            backend consulting · building cool stuff │
+│                                                     │
+│  reach me: nguyenduckhoa.9a6.18.19@gmail.com                │
+│            t.me/schweizerwilsemann                  │
+│            linkedin.com/in/khoa-nguyen-016280323    │
+└─────────────────────────────────────────────────────┘
+```
+
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoa.qianyingya@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/schweizerwilsemann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-nguyen-016280323/)
+
+<br/>
+
+```
+// thanks for stopping by
+// star something if you find it useful
+// connection request? always open.
+```
 
 </div>

@@ -118,7 +118,7 @@ fuel:          🧋 milktea, infinite supply
 │  open to:  collaborations · interesting problems    │
 │            backend consulting · building cool stuff │
 │                                                     │
-│  reach me: nguyenduckhoa.9a6.18.19@gmail.com                │
+│  reach me: khoanguyenduc99@outlook.com              │
 │            t.me/schweizerwilsemann                  │
 │            linkedin.com/in/khoa-nguyen-016280323    │
 └─────────────────────────────────────────────────────┘

@@ -1,7 +1,7 @@
 <!-- schweizerwilsemann/schweizerwilsemann -->
 
 <div align="center">
-<img src="./header.svg" width="100%"/>
+<img src="./my-header.svg" width="100%"/>
 </div>
 
 ```

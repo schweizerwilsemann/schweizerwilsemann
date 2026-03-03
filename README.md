@@ -7,7 +7,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  $ whoami                                                        ║
-║  > nguyen-duc-khoa  //  backend dev · devops · ai tinkerer      ║
+║  > nguyen-duc-khoa  //  fullstack dev · BA · QA/QC               ║
 ║  > Ho Chi Minh City, Vietnam                                     ║
 ║  > currently: drinking milktea & shipping code                   ║
 ╚══════════════════════════════════════════════════════════════════╝

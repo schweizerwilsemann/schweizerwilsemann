@@ -92,10 +92,7 @@ fuel:          🧋 milktea, infinite supply
 <br/>
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=schweizerwilsemann&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=888888&text_color=aaaaaa&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schweizerwilsemann&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" />
+<img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=schweizerwilsemann&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=888888&text_color=aaaaaa&rank_icon=github&cache_seconds=86400" /> &nbsp;&nbsp; <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=schweizerwilsemann&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&cache_seconds=86400" />
 
 <br/><br/>
 
